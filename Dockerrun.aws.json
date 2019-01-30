@@ -1,6 +1,6 @@
 {
     "AWSEBDockerrunVersion": 2,
-    "containerDefiiitions": [
+    "containerDefinitions": [
         {
             "name": "client",
             "image": "solymantaherian/multi-client",
